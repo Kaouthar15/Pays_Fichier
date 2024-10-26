@@ -1,0 +1,8 @@
+Maroc;Rabat;3600005000;Afrique
+Pérou;Lima;27000938;Amérique de Sud
+Togo;Lomé;6748888484;Afrique
+Canada;Otawa;64765657;Amérique du Nord
+Qatar;Doha;500000;Asie
+Pérou;Lima;26354555;Amérique de Sur
+Australie;Canberra;84777775677;Oceanie
+Cote d'Ivoire;Abidjan;340098978464;Afrique
